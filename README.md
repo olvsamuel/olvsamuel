@@ -16,7 +16,7 @@
 </p>
 
 <!-- Dropdown -->
-<details>
+
   <summary>👨‍💻 More about me</summary>
 
   - 💬 Born in 1999, I currently live in Porto Alegre, Brazil. I have experience in backend development with .NET and NodeJS technologies. 
@@ -28,7 +28,7 @@
   - 📫 Contact me
   * email: olvsamuel.edu@gmail.com
   * linkedin: /olvsamuel
-</details>
+
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PCSamuel)
