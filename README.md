@@ -25,9 +25,7 @@
 
   - ⚡ I'm a musician too. I play acoustic guitar, electric guitar, bass and ukulele. I like to learn and apply knowledge in practice. Sometimes I read something that catches my attention.
 
-  - 📫 Contact me
-    email: olvsamuel.edu@gmail.com
-    linkedin: /olvsamuel
+  - 📫 Contact me: email: olvsamuel.edu@gmail.com and linkedin: /olvsamuel
 <!-- </details> -->
 
 <!-- Links -->
