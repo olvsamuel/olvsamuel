@@ -16,7 +16,7 @@
 </p>
 
 <!-- Dropdown -->
-
+<!-- <details> -->
   <summary>👨‍💻 More about me</summary>
 
   - 💬 Born in 1999, I currently live in Porto Alegre, Brazil. I have experience in backend development with .NET and NodeJS technologies. 
@@ -26,9 +26,9 @@
   - ⚡ I'm a musician too. I play acoustic guitar, electric guitar, bass and ukulele. I like to learn and apply knowledge in practice. Sometimes I read something that catches my attention.
 
   - 📫 Contact me
-  * email: olvsamuel.edu@gmail.com
-  * linkedin: /olvsamuel
-
+    email: olvsamuel.edu@gmail.com
+    linkedin: /olvsamuel
+<!-- </details> -->
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PCSamuel)
@@ -39,7 +39,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NzkzODAsIm5iZiI6MTcwODk3OTA4MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDIwMjQ0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjYzk1ZDM0OWYzMGMxNDQyMThiZDc4ZTM5MjE4MzA0MTRkNGIzZDlmNDAyNmMxOTk0MTc5ZWQ4YmQ1NDE2NjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.edeOZ8uP6d-lLr4aICd-yqWXvmZpDbBmYsgNmLb_yJA" alt="Imagem">
+  <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Imagem">
 </p>
 
 ## 🔥 Skills
